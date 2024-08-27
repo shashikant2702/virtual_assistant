@@ -6,13 +6,13 @@ Moonlight is a voice-activated virtual assistant built using JavaScript, HTML, a
 
 - **Voice Commands**: Moonlight responds to various commands like greeting, opening websites, searching the web, and more.
 - **Speech Synthesis**: Moonlight speaks back to the user based on the recognized commands using the `SpeechSynthesisUtterance` API.
-- **Time and Date Queries**: Ask NEXUS for the current time or date.
+- **Time and Date Queries**: Ask moonlight for the current time or date.
 - **Web Searching**: Perform web searches and open specific websites (Google, YouTube, Facebook, Wikipedia).
 - **Customizable**: The assistant can be easily expanded with additional commands to meet specific requirements.
 
 ## Demo
 
-![Moonlight Assistant Screenshot](path-to-C:\Users\shash\Pictures\Screenshots\Moonlight virtual assistant screenshot.png)
+![Moonlight Assistant Screenshot](images/screenshot.png)
 
 ## How to Use
 
@@ -20,7 +20,7 @@ Moonlight is a voice-activated virtual assistant built using JavaScript, HTML, a
 
    ```bash
    git clone https://github.com/shashikant2702/virtual_assistant.git
-   
+
 
 Commands Supported
    
@@ -42,6 +42,5 @@ JavaScript (ES6)
 License
 This project is open-source and available under the MIT License.
 
-![image](C:\Users\shash\Pictures\Screenshots\Moonlight virtual assistant screenshot.png)
-
+![image](images/screenshot.png)
    
