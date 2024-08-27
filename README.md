@@ -19,7 +19,8 @@ Moonlight is a voice-activated virtual assistant built using JavaScript, HTML, a
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/shashikant2702/virtual_assistant
+   git clone https://github.com/shashikant2702/virtual_assistant.git
+   
 
 Commands Supported
    
